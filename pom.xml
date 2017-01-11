@@ -274,6 +274,7 @@
      -->
 
 
+    <!--
     <distributionManagement>
         <repository>
             <id>central</id>
@@ -286,6 +287,7 @@
             <url>http://maven.klout:8081/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
+     -->
 
 
 </project>
