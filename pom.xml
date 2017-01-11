@@ -10,6 +10,12 @@
     <description>Extensions of Hive for the Data Developer</description>
     <url>https://github.com/klout/brickhouse</url>
 
+    <parent>
+        <groupId>com.bazaarvoice.commons</groupId>
+        <artifactId>bv-super-pom</artifactId>
+        <version>1.16</version>
+    </parent>
+
     <issueManagement>
         <url>https://github.com/klout/brickhouse/issues</url>
         <system>GitHub Issues</system>
@@ -24,9 +30,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/klout/brickhouse</url>
-        <connection>scm:git:git://github.com/klout/brickhouse.git</connection>
-        <developerConnection>scm:git:git@github.com:klout/brickhouse.git</developerConnection>
+        <connection>scm:git:git@github.com:thaibui/brickhouse.git</connection>
+        <url>scm:git:git@github.com:thaibui/brickhouse.git</url>
+        <developerConnection>scm:git:git@github.com:thaibui/brickhouse.git</developerConnection>
     </scm>
 
     <developers>
